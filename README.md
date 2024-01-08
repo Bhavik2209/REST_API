@@ -1,2 +1,2 @@
-##REST API
-this is a code to understand what is rest api
+## REST API
+### this is a code to understand what is rest api
